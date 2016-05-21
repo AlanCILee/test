@@ -6,6 +6,7 @@ public class test {
 		System.out.println("hello world");
 		int i=0;
 		char b='b';
+		float f = 0.0f;
 	}
 
 }
