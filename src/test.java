@@ -10,6 +10,8 @@ public class test {
 
 		char b='b';
 		float f = 0.0f;
+		
+		char e='d';
 
 	}
 
